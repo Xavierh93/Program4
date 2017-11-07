@@ -1,0 +1,4 @@
+﻿  Assembling composites.asm...
+composites.asm(7): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Project.vcxproj -> C:\Users\xavie\Desktop\Program4\Debug\Project.exe
+  Project.vcxproj -> C:\Users\xavie\Desktop\Program4\Debug\Project.pdb (Full PDB)
